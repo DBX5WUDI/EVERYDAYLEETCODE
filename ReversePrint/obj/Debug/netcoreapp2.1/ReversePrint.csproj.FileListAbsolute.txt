@@ -1,0 +1,11 @@
+F:\graduate course\data structures\ReversePrint\obj\Debug\netcoreapp2.1\ReversePrint.csprojAssemblyReference.cache
+F:\graduate course\data structures\ReversePrint\obj\Debug\netcoreapp2.1\ReversePrint.csproj.CoreCompileInputs.cache
+F:\graduate course\data structures\ReversePrint\obj\Debug\netcoreapp2.1\ReversePrint.AssemblyInfoInputs.cache
+F:\graduate course\data structures\ReversePrint\obj\Debug\netcoreapp2.1\ReversePrint.AssemblyInfo.cs
+F:\graduate course\data structures\ReversePrint\bin\Debug\netcoreapp2.1\ReversePrint.deps.json
+F:\graduate course\data structures\ReversePrint\bin\Debug\netcoreapp2.1\ReversePrint.runtimeconfig.json
+F:\graduate course\data structures\ReversePrint\bin\Debug\netcoreapp2.1\ReversePrint.runtimeconfig.dev.json
+F:\graduate course\data structures\ReversePrint\bin\Debug\netcoreapp2.1\ReversePrint.dll
+F:\graduate course\data structures\ReversePrint\bin\Debug\netcoreapp2.1\ReversePrint.pdb
+F:\graduate course\data structures\ReversePrint\obj\Debug\netcoreapp2.1\ReversePrint.dll
+F:\graduate course\data structures\ReversePrint\obj\Debug\netcoreapp2.1\ReversePrint.pdb

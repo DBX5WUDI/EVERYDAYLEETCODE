@@ -1,0 +1,11 @@
+F:\graduate course\data structures\EVERYDAYLEECODE\ReplaceSpace\bin\Debug\netcoreapp2.1\ReplaceSpace.deps.json
+F:\graduate course\data structures\EVERYDAYLEECODE\ReplaceSpace\bin\Debug\netcoreapp2.1\ReplaceSpace.runtimeconfig.json
+F:\graduate course\data structures\EVERYDAYLEECODE\ReplaceSpace\bin\Debug\netcoreapp2.1\ReplaceSpace.runtimeconfig.dev.json
+F:\graduate course\data structures\EVERYDAYLEECODE\ReplaceSpace\bin\Debug\netcoreapp2.1\ReplaceSpace.dll
+F:\graduate course\data structures\EVERYDAYLEECODE\ReplaceSpace\bin\Debug\netcoreapp2.1\ReplaceSpace.pdb
+F:\graduate course\data structures\EVERYDAYLEECODE\ReplaceSpace\obj\Debug\netcoreapp2.1\ReplaceSpace.csprojAssemblyReference.cache
+F:\graduate course\data structures\EVERYDAYLEECODE\ReplaceSpace\obj\Debug\netcoreapp2.1\ReplaceSpace.csproj.CoreCompileInputs.cache
+F:\graduate course\data structures\EVERYDAYLEECODE\ReplaceSpace\obj\Debug\netcoreapp2.1\ReplaceSpace.AssemblyInfoInputs.cache
+F:\graduate course\data structures\EVERYDAYLEECODE\ReplaceSpace\obj\Debug\netcoreapp2.1\ReplaceSpace.AssemblyInfo.cs
+F:\graduate course\data structures\EVERYDAYLEECODE\ReplaceSpace\obj\Debug\netcoreapp2.1\ReplaceSpace.dll
+F:\graduate course\data structures\EVERYDAYLEECODE\ReplaceSpace\obj\Debug\netcoreapp2.1\ReplaceSpace.pdb

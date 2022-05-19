@@ -1,0 +1,11 @@
+F:\graduate course\data structures\ReverseList\bin\Debug\netcoreapp2.1\ReverseList.deps.json
+F:\graduate course\data structures\ReverseList\bin\Debug\netcoreapp2.1\ReverseList.runtimeconfig.json
+F:\graduate course\data structures\ReverseList\bin\Debug\netcoreapp2.1\ReverseList.runtimeconfig.dev.json
+F:\graduate course\data structures\ReverseList\bin\Debug\netcoreapp2.1\ReverseList.dll
+F:\graduate course\data structures\ReverseList\bin\Debug\netcoreapp2.1\ReverseList.pdb
+F:\graduate course\data structures\ReverseList\obj\Debug\netcoreapp2.1\ReverseList.csprojAssemblyReference.cache
+F:\graduate course\data structures\ReverseList\obj\Debug\netcoreapp2.1\ReverseList.csproj.CoreCompileInputs.cache
+F:\graduate course\data structures\ReverseList\obj\Debug\netcoreapp2.1\ReverseList.AssemblyInfoInputs.cache
+F:\graduate course\data structures\ReverseList\obj\Debug\netcoreapp2.1\ReverseList.AssemblyInfo.cs
+F:\graduate course\data structures\ReverseList\obj\Debug\netcoreapp2.1\ReverseList.dll
+F:\graduate course\data structures\ReverseList\obj\Debug\netcoreapp2.1\ReverseList.pdb

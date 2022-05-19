@@ -1,0 +1,11 @@
+F:\graduate course\data structures\CopyRandomList\bin\Debug\netcoreapp2.1\CopyRandomList.deps.json
+F:\graduate course\data structures\CopyRandomList\bin\Debug\netcoreapp2.1\CopyRandomList.runtimeconfig.json
+F:\graduate course\data structures\CopyRandomList\bin\Debug\netcoreapp2.1\CopyRandomList.runtimeconfig.dev.json
+F:\graduate course\data structures\CopyRandomList\bin\Debug\netcoreapp2.1\CopyRandomList.dll
+F:\graduate course\data structures\CopyRandomList\bin\Debug\netcoreapp2.1\CopyRandomList.pdb
+F:\graduate course\data structures\CopyRandomList\obj\Debug\netcoreapp2.1\CopyRandomList.csprojAssemblyReference.cache
+F:\graduate course\data structures\CopyRandomList\obj\Debug\netcoreapp2.1\CopyRandomList.csproj.CoreCompileInputs.cache
+F:\graduate course\data structures\CopyRandomList\obj\Debug\netcoreapp2.1\CopyRandomList.AssemblyInfoInputs.cache
+F:\graduate course\data structures\CopyRandomList\obj\Debug\netcoreapp2.1\CopyRandomList.AssemblyInfo.cs
+F:\graduate course\data structures\CopyRandomList\obj\Debug\netcoreapp2.1\CopyRandomList.dll
+F:\graduate course\data structures\CopyRandomList\obj\Debug\netcoreapp2.1\CopyRandomList.pdb

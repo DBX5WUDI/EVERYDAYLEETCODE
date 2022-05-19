@@ -1,0 +1,11 @@
+F:\graduate course\data structures\EVERYDAYLEECODE\Optimum Allocation\bin\Debug\netcoreapp2.1\Optimum Allocation.deps.json
+F:\graduate course\data structures\EVERYDAYLEECODE\Optimum Allocation\bin\Debug\netcoreapp2.1\Optimum Allocation.runtimeconfig.json
+F:\graduate course\data structures\EVERYDAYLEECODE\Optimum Allocation\bin\Debug\netcoreapp2.1\Optimum Allocation.runtimeconfig.dev.json
+F:\graduate course\data structures\EVERYDAYLEECODE\Optimum Allocation\bin\Debug\netcoreapp2.1\Optimum Allocation.dll
+F:\graduate course\data structures\EVERYDAYLEECODE\Optimum Allocation\bin\Debug\netcoreapp2.1\Optimum Allocation.pdb
+F:\graduate course\data structures\EVERYDAYLEECODE\Optimum Allocation\obj\Debug\netcoreapp2.1\Optimum Allocation.csprojAssemblyReference.cache
+F:\graduate course\data structures\EVERYDAYLEECODE\Optimum Allocation\obj\Debug\netcoreapp2.1\Optimum Allocation.csproj.CoreCompileInputs.cache
+F:\graduate course\data structures\EVERYDAYLEECODE\Optimum Allocation\obj\Debug\netcoreapp2.1\Optimum Allocation.AssemblyInfoInputs.cache
+F:\graduate course\data structures\EVERYDAYLEECODE\Optimum Allocation\obj\Debug\netcoreapp2.1\Optimum Allocation.AssemblyInfo.cs
+F:\graduate course\data structures\EVERYDAYLEECODE\Optimum Allocation\obj\Debug\netcoreapp2.1\Optimum Allocation.dll
+F:\graduate course\data structures\EVERYDAYLEECODE\Optimum Allocation\obj\Debug\netcoreapp2.1\Optimum Allocation.pdb

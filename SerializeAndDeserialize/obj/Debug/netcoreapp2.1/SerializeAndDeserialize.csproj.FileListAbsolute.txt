@@ -1,0 +1,11 @@
+F:\graduate course\data structures\EVERYDAYLEECODE\SerializeAndDeserialize\obj\Debug\netcoreapp2.1\SerializeAndDeserialize.csprojAssemblyReference.cache
+F:\graduate course\data structures\EVERYDAYLEECODE\SerializeAndDeserialize\obj\Debug\netcoreapp2.1\SerializeAndDeserialize.csproj.CoreCompileInputs.cache
+F:\graduate course\data structures\EVERYDAYLEECODE\SerializeAndDeserialize\obj\Debug\netcoreapp2.1\SerializeAndDeserialize.AssemblyInfoInputs.cache
+F:\graduate course\data structures\EVERYDAYLEECODE\SerializeAndDeserialize\obj\Debug\netcoreapp2.1\SerializeAndDeserialize.AssemblyInfo.cs
+F:\graduate course\data structures\EVERYDAYLEECODE\SerializeAndDeserialize\bin\Debug\netcoreapp2.1\SerializeAndDeserialize.deps.json
+F:\graduate course\data structures\EVERYDAYLEECODE\SerializeAndDeserialize\bin\Debug\netcoreapp2.1\SerializeAndDeserialize.runtimeconfig.json
+F:\graduate course\data structures\EVERYDAYLEECODE\SerializeAndDeserialize\bin\Debug\netcoreapp2.1\SerializeAndDeserialize.runtimeconfig.dev.json
+F:\graduate course\data structures\EVERYDAYLEECODE\SerializeAndDeserialize\bin\Debug\netcoreapp2.1\SerializeAndDeserialize.dll
+F:\graduate course\data structures\EVERYDAYLEECODE\SerializeAndDeserialize\bin\Debug\netcoreapp2.1\SerializeAndDeserialize.pdb
+F:\graduate course\data structures\EVERYDAYLEECODE\SerializeAndDeserialize\obj\Debug\netcoreapp2.1\SerializeAndDeserialize.dll
+F:\graduate course\data structures\EVERYDAYLEECODE\SerializeAndDeserialize\obj\Debug\netcoreapp2.1\SerializeAndDeserialize.pdb

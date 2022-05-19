@@ -1,0 +1,11 @@
+F:\graduate course\data structures\EVERYDAYLEECODE\DiStringMatching\DiStringMatching\bin\Debug\netcoreapp2.1\DiStringMatching.deps.json
+F:\graduate course\data structures\EVERYDAYLEECODE\DiStringMatching\DiStringMatching\bin\Debug\netcoreapp2.1\DiStringMatching.runtimeconfig.json
+F:\graduate course\data structures\EVERYDAYLEECODE\DiStringMatching\DiStringMatching\bin\Debug\netcoreapp2.1\DiStringMatching.runtimeconfig.dev.json
+F:\graduate course\data structures\EVERYDAYLEECODE\DiStringMatching\DiStringMatching\bin\Debug\netcoreapp2.1\DiStringMatching.dll
+F:\graduate course\data structures\EVERYDAYLEECODE\DiStringMatching\DiStringMatching\bin\Debug\netcoreapp2.1\DiStringMatching.pdb
+F:\graduate course\data structures\EVERYDAYLEECODE\DiStringMatching\DiStringMatching\obj\Debug\netcoreapp2.1\DiStringMatching.csprojAssemblyReference.cache
+F:\graduate course\data structures\EVERYDAYLEECODE\DiStringMatching\DiStringMatching\obj\Debug\netcoreapp2.1\DiStringMatching.csproj.CoreCompileInputs.cache
+F:\graduate course\data structures\EVERYDAYLEECODE\DiStringMatching\DiStringMatching\obj\Debug\netcoreapp2.1\DiStringMatching.AssemblyInfoInputs.cache
+F:\graduate course\data structures\EVERYDAYLEECODE\DiStringMatching\DiStringMatching\obj\Debug\netcoreapp2.1\DiStringMatching.AssemblyInfo.cs
+F:\graduate course\data structures\EVERYDAYLEECODE\DiStringMatching\DiStringMatching\obj\Debug\netcoreapp2.1\DiStringMatching.dll
+F:\graduate course\data structures\EVERYDAYLEECODE\DiStringMatching\DiStringMatching\obj\Debug\netcoreapp2.1\DiStringMatching.pdb

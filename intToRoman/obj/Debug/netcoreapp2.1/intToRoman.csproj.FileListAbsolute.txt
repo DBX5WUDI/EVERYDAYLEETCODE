@@ -1,0 +1,11 @@
+F:\graduate course\data structures\EVERYDAYLEECODE\intToRoman\bin\Debug\netcoreapp2.1\intToRoman.deps.json
+F:\graduate course\data structures\EVERYDAYLEECODE\intToRoman\bin\Debug\netcoreapp2.1\intToRoman.runtimeconfig.json
+F:\graduate course\data structures\EVERYDAYLEECODE\intToRoman\bin\Debug\netcoreapp2.1\intToRoman.runtimeconfig.dev.json
+F:\graduate course\data structures\EVERYDAYLEECODE\intToRoman\bin\Debug\netcoreapp2.1\intToRoman.dll
+F:\graduate course\data structures\EVERYDAYLEECODE\intToRoman\bin\Debug\netcoreapp2.1\intToRoman.pdb
+F:\graduate course\data structures\EVERYDAYLEECODE\intToRoman\obj\Debug\netcoreapp2.1\intToRoman.csprojAssemblyReference.cache
+F:\graduate course\data structures\EVERYDAYLEECODE\intToRoman\obj\Debug\netcoreapp2.1\intToRoman.csproj.CoreCompileInputs.cache
+F:\graduate course\data structures\EVERYDAYLEECODE\intToRoman\obj\Debug\netcoreapp2.1\intToRoman.AssemblyInfoInputs.cache
+F:\graduate course\data structures\EVERYDAYLEECODE\intToRoman\obj\Debug\netcoreapp2.1\intToRoman.AssemblyInfo.cs
+F:\graduate course\data structures\EVERYDAYLEECODE\intToRoman\obj\Debug\netcoreapp2.1\intToRoman.dll
+F:\graduate course\data structures\EVERYDAYLEECODE\intToRoman\obj\Debug\netcoreapp2.1\intToRoman.pdb

@@ -1,0 +1,11 @@
+F:\graduate course\data structures\EVERYDAYLEECODE\AppendTailAndDeleteHead\bin\Debug\netcoreapp2.1\AppendTailAndDeleteHead.deps.json
+F:\graduate course\data structures\EVERYDAYLEECODE\AppendTailAndDeleteHead\bin\Debug\netcoreapp2.1\AppendTailAndDeleteHead.runtimeconfig.json
+F:\graduate course\data structures\EVERYDAYLEECODE\AppendTailAndDeleteHead\bin\Debug\netcoreapp2.1\AppendTailAndDeleteHead.runtimeconfig.dev.json
+F:\graduate course\data structures\EVERYDAYLEECODE\AppendTailAndDeleteHead\bin\Debug\netcoreapp2.1\AppendTailAndDeleteHead.dll
+F:\graduate course\data structures\EVERYDAYLEECODE\AppendTailAndDeleteHead\bin\Debug\netcoreapp2.1\AppendTailAndDeleteHead.pdb
+F:\graduate course\data structures\EVERYDAYLEECODE\AppendTailAndDeleteHead\obj\Debug\netcoreapp2.1\AppendTailAndDeleteHead.csprojAssemblyReference.cache
+F:\graduate course\data structures\EVERYDAYLEECODE\AppendTailAndDeleteHead\obj\Debug\netcoreapp2.1\AppendTailAndDeleteHead.csproj.CoreCompileInputs.cache
+F:\graduate course\data structures\EVERYDAYLEECODE\AppendTailAndDeleteHead\obj\Debug\netcoreapp2.1\AppendTailAndDeleteHead.AssemblyInfoInputs.cache
+F:\graduate course\data structures\EVERYDAYLEECODE\AppendTailAndDeleteHead\obj\Debug\netcoreapp2.1\AppendTailAndDeleteHead.AssemblyInfo.cs
+F:\graduate course\data structures\EVERYDAYLEECODE\AppendTailAndDeleteHead\obj\Debug\netcoreapp2.1\AppendTailAndDeleteHead.dll
+F:\graduate course\data structures\EVERYDAYLEECODE\AppendTailAndDeleteHead\obj\Debug\netcoreapp2.1\AppendTailAndDeleteHead.pdb

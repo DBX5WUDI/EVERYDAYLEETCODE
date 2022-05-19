@@ -1,0 +1,11 @@
+F:\graduate course\data structures\EVERYDAYLEECODE\MinStack\bin\Debug\netcoreapp2.1\MinStack.deps.json
+F:\graduate course\data structures\EVERYDAYLEECODE\MinStack\bin\Debug\netcoreapp2.1\MinStack.runtimeconfig.json
+F:\graduate course\data structures\EVERYDAYLEECODE\MinStack\bin\Debug\netcoreapp2.1\MinStack.runtimeconfig.dev.json
+F:\graduate course\data structures\EVERYDAYLEECODE\MinStack\bin\Debug\netcoreapp2.1\MinStack.dll
+F:\graduate course\data structures\EVERYDAYLEECODE\MinStack\bin\Debug\netcoreapp2.1\MinStack.pdb
+F:\graduate course\data structures\EVERYDAYLEECODE\MinStack\obj\Debug\netcoreapp2.1\MinStack.csprojAssemblyReference.cache
+F:\graduate course\data structures\EVERYDAYLEECODE\MinStack\obj\Debug\netcoreapp2.1\MinStack.csproj.CoreCompileInputs.cache
+F:\graduate course\data structures\EVERYDAYLEECODE\MinStack\obj\Debug\netcoreapp2.1\MinStack.AssemblyInfoInputs.cache
+F:\graduate course\data structures\EVERYDAYLEECODE\MinStack\obj\Debug\netcoreapp2.1\MinStack.AssemblyInfo.cs
+F:\graduate course\data structures\EVERYDAYLEECODE\MinStack\obj\Debug\netcoreapp2.1\MinStack.dll
+F:\graduate course\data structures\EVERYDAYLEECODE\MinStack\obj\Debug\netcoreapp2.1\MinStack.pdb
